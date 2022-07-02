@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Header from '$lib/Header/index.svelte';
+	import Header from '$lib/header/Header.svelte';
 	import ReloadPrompt from '$lib/ReloadPrompt/index.svelte';
 	import '../app.css';
 </script>
@@ -157,7 +157,7 @@
 </main>
 
 <footer>
-	<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit.</p>
+	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 </footer>
 
 <ReloadPrompt />
