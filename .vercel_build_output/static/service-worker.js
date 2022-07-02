@@ -1,5 +1,5 @@
 const build = [
-  "/_app/immutable/start-c020958f.js",
+  "/_app/immutable/start-6cf2005c.js",
   "/_app/immutable/pages/__layout.svelte-c253d3cc.js",
   "/_app/immutable/assets/pages/__layout.svelte-2df5e0cf.css",
   "/_app/immutable/assets/svelte-logo-87df40b8.svg",
@@ -58,7 +58,7 @@ const files = [
   "/svelte-welcome.png",
   "/svelte-welcome.webp"
 ];
-const version = "1656778832889";
+const version = "1656779161461";
 try {
   self["workbox:core:6.5.2"] && _();
 } catch (e) {
